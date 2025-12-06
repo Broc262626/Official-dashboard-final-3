@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "salt": "2e95f11f55c40aeddfa3be986f492216",
+    "iterations": 200000,
+    "hash": "c6d9171ae2f6d7d2853e8dfbc430b428f60a48a0396b5e57acf49ec10dd5fe1e"
+  },
+  "viewer": {
+    "salt": "d3eaf69baaad0528e1f53af112536592",
+    "iterations": 200000,
+    "hash": "ef2f6200d8afab6229e4682af3e14f934986375cdebe205c73f83b96ef61c20f"
+  },
+  "tech1": {
+    "salt": "d95c7261770eef4045272d371b5465b4",
+    "iterations": 200000,
+    "hash": "4200a2f1aa3c53420217eaa6a57501e7d800821cc1ec5faa2d8c82050b1c2f41"
+  }
+}

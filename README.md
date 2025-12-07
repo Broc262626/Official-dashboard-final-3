@@ -1,1 +1,0 @@
-Full dashboard with custom statuses, table columns, import/export, priority highlighting. Default admin/admin123 viewer/viewer123

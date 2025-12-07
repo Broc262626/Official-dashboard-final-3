@@ -1,0 +1,6 @@
+id,server,parent_fleet,fleet_number,registration,status,comments,date_created,priority,assigned_to
+1,Server A,Fleet X,FL-001,REG001,New,"Initial intake",2025-12-01,1,Tech A
+2,Server B,Fleet Y,FL-002,REG002,Inspected, all good,"Inspection OK",2025-11-15,2,Tech B
+3,Server C,Fleet Z,FL-003,REG003,Inspected, Awaiting PO approval,"Waiting for PO",2025-10-20,3,Tech C
+4,Server D,Fleet X,FL-004,REG004,PO approved to be repaired,"PO approved",2025-09-30,2,Tech D
+5,Server E,Fleet Y,FL-005,REG005,Repaired, all good,"Repaired and tested",2025-08-12,1,Tech E
